@@ -11,6 +11,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Luca Leone"
+	"author": "Luca Leone",
+	"description": "learning npm on code camp"
 
 }
